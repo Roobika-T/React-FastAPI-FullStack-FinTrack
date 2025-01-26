@@ -9,4 +9,4 @@ Open new terminal (keep other running)
 3. type: npm install axios
 4. npm start
 
-Remember two terminals should be running
+Remember two terminals should be running# React-FastAPI-FullStack
